@@ -1,6 +1,0 @@
-{
-  "id": "PENITENT_WHITEKNIGHT",
-  "name": "whiteknight",
-  "author": "Luddweak",
-  "version": "1.0.1"
-}
